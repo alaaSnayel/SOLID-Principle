@@ -1,4 +1,3 @@
-package com.javatechie.solid.dip;
 
 public class ShoppingMall {
 
